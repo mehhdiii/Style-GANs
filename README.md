@@ -5,6 +5,8 @@ The repository impliments style transfer GAN architecture on videos using Transf
 To run the notebook, upload it to a kaggle envoirnment and load the dataset in /input/ directory
 
 ## Results
+The following artistic image was applied on the video. A sample video frame is shown below
+
 ### Artistic Image
 ![alt text](style.png)
 
