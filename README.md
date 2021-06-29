@@ -19,5 +19,4 @@ The following artistic image was applied on the video. A sample video frame is s
 ![alt text](c1.jpg)
 
 ## Team Members
-[Syed Muhammad Ammar Alam](https://github.com/AALAM98mod100)
-Mehdi Raza Khorasani
+[Syed Muhammad Ammar Alam](https://github.com/AALAM98mod100) & Mehdi Raza Khorasani
