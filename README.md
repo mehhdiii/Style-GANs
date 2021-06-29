@@ -10,4 +10,4 @@ To run the notebook, upload it to a kaggle envoirnment and load the dataset in /
 
 ### Resulting Style Transfer
 
-![alt text](output.png)
+![alt text](c1.jpg)
