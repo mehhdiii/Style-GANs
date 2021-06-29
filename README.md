@@ -5,7 +5,7 @@ The repository impliments style transfer GAN architecture on videos using Transf
 To run the notebook, upload it to a kaggle envoirnment and add [VGG-19](https://www.kaggle.com/keras/vgg19) and [dataset1](https://www.kaggle.com/mehdirazakhorasani/goldfincheseating), [dataset2](https://www.kaggle.com/gauravduttakiit/style-transfer-and-object-detection) in /input/ directory.
 
 ## Demo video
-Demo video can be found [here](https://www.youtube.com/watch?v=mhVOp6ZH704)
+Demo video can be found [here](https://www.youtube.com/watch?v=mhVOp6ZH704). 
 
 ## Results
 
